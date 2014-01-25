@@ -9,4 +9,9 @@ public class SampleTest {
     public void test_one(){
         assertEquals(true,true);
     }
+
+    @Test
+    public void test_two(){
+        assertEquals(true,true);
+    }
 }
